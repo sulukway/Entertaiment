@@ -343,6 +343,7 @@ http://62.210.93.115:80/live?channelId=53&uid=2001&deviceUser=19040&devicePass=1
 http://62.210.93.43:80/live?channelId=88&uid=2001&deviceUser=19040&devicePass=180917
 #EXTINF:-1,Suluk™ → Sky Movies Thriller 
 http://62.210.93.43:80/live?channelId=89&uid=2001&deviceUser=19040&devicePass=180917
+
 #EXTINF:-1,Suluk™ → Planeta HD 
 http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1,Suluk™ → Cinemax
